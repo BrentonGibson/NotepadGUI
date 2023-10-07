@@ -1,4 +1,4 @@
-<h1>Notepad GUI</h1>
+<h1>🗒️ Notepad GUI</h1>
 
 <h2>Description</h2> 
 Created a Notepad using Python and Python’s built in GUI framework Tkinter in VS Code to write down quick notes.
